@@ -1,2 +1,2 @@
 # angular
-Deep angular wiuth sirus colleagues
+Deep dive in angular with sirus colleagues
