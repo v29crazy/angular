@@ -41,3 +41,7 @@ h4, h6{
   border-radius: 3px !important;
 
 }
+
+.table tbody tr td img{
+  width: 62px;
+}

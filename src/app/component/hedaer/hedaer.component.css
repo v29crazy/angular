@@ -11,3 +11,7 @@ form-control{
   color: blue;
   top: 22px;
 }
+
+.home-btn{
+  cursor: pointer;
+}

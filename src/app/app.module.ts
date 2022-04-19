@@ -8,13 +8,15 @@ import { ProductComponent } from './component/product/product.component';
 import {HttpClientModule} from "@angular/common/http";
 import {RouterModule} from "@angular/router";
 import {AppRoutingModule} from "./app-routing.module";
+import { FilterPipe } from './shared/filter.pipe';
 
 @NgModule({
   declarations: [
     AppComponent,
     HedaerComponent,
     CartComponent,
-    ProductComponent
+    ProductComponent,
+    FilterPipe
   ],
   imports: [
     BrowserModule,
